@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    }
+img{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    padding-top: 80px;    
+}
+#welcome{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(black,Darkgrey,grey,lightgrey);
+}
+#name{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkcyan;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color: rgb(58, 59, 57);
+}
+h1{
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(109, 170, 240);
+}
